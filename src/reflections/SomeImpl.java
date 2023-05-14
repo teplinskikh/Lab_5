@@ -1,5 +1,7 @@
+package reflections;
+
 /**
- * Class inheriting class SomeInterface
+ * Class inherits class SomeInterface
  */
 public class SomeImpl implements SomeInterface {
     /**

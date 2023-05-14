@@ -1,5 +1,7 @@
+package reflections;
+
 /**
- * Class inheriting class SomeOtherInterface
+ * Class inherits class SomeOtherInterface
  */
 public class SODoer implements SomeOtherInterface {
     /**

@@ -1,7 +1,9 @@
+package reflections;
+
 /**
- * Class inheriting class SomeInterface
+ * Class inherits class SomeInterface
  */
-public class OtherImpl implements SomeOtherInterface{
+public class OtherImpl implements SomeOtherInterface {
     /**
      * Override method from SomeInterface
      */

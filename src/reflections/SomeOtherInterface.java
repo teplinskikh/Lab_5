@@ -1,8 +1,9 @@
+package reflections;
 
 /**
  * Interface class
  */
-public interface SomeInterface {
+public interface SomeOtherInterface {
     /**
      * Method will be overriden in other classes
      */
